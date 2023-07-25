@@ -1,0 +1,1 @@
+pipenv run streamlit run question/fetch.py
